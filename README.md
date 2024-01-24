@@ -2,7 +2,9 @@
 
 ## Overview
 
-Welcome to the project repository! This repository is a collection of folders, each dedicated to a specific aspect of software development. Whether you're interested in algorithms, API development, back-end programming, data analytics, databases, front-end design, networking, or servers, you'll find relevant resources and code samples here.
+
+
+Welcome to the project repository! This repository is a collection of folders, each dedicated to a specific aspect of software development. It showcases my skills in algorithms, API development, back-end programming, data analytics, databases, front-end design, networking, or servers, you'll find relevant resources and code samples here.
 
 ## Table of Contents
 
