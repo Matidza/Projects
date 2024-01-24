@@ -1,6 +1,7 @@
 # Projects
-Software Engineering prjects
-Absolutely! Let's integrate a focus on specific data structures for each big project:
+This Project Repo is to showcase my python coding, problem-solving skills and also intergrating other Software engineering skills and tools, like databases, API's etc
+
+Software Engineering prjects. Let's integrate a focus on specific data structures for each big project:
 
 ### Week 1-2: January 29 - February 11, 2024 (Basic Python)
 1. **Project 1 - Simple Calculator**
