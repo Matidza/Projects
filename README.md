@@ -1,5 +1,7 @@
 # Project Repository
 
+![ol](https://github.com/Matidza/Projects/assets/125007667/c6e88bb4-b549-43a6-891d-0e10d298a71e)
+
 ## Overview
 
 Welcome to the project repository! This repository is a collection of folders, each dedicated to a specific aspect of software development. Whether you're interested in algorithms, API development, back-end programming, data analytics, databases, front-end design, networking, or servers, you'll find relevant resources and code samples here.
