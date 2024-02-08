@@ -1,0 +1,85 @@
+Roadmap to become a Software Engineer (Backend Developer)
+
+1. **Programming Languages:**
+   - Java
+   - Python
+   - Node.js (JavaScript or TypeScript)
+
+2. **Web Frameworks:**
+   - Spring Boot (Java)
+   - Django (Python)
+   - Express.js (Node.js)
+
+3. **Databases:**
+   - SQL (e.g., MySQL, PostgreSQL)
+   - NoSQL (e.g., MongoDB)
+
+4. **API Development:**
+   - RESTful API design
+   - GraphQL
+
+5. **Server-Side Scripting:**
+   - Server-side JavaScript (Node.js)
+
+6. **Version Control:**
+   - Git
+
+7. **Web Servers:**
+   - Nginx
+   - Apache
+
+8. **ORM (Object-Relational Mapping):**
+   - Hibernate (Java)
+   - SQLAlchemy (Python)
+
+9. **Authentication and Authorization:**
+   - OAuth
+   - JWT (JSON Web Tokens)
+
+10. **Testing:**
+    - Unit testing (e.g., JUnit, pytest, Mocha)
+    - Integration testing
+
+11. **Containerization and Orchestration:**
+    - Docker
+    - Kubernetes
+
+12. **Build Tools:**
+    - Maven (Java)
+    - Gradle (Java, Kotlin)
+    - npm (Node.js)
+    - pip (Python)
+
+13. **Continuous Integration/Continuous Deployment (CI/CD):**
+    - Jenkins
+    - Travis CI
+    - GitLab CI
+
+14. **Web Security:**
+    - HTTPS
+    - Cross-Site Scripting (XSS) prevention
+    - Cross-Site Request Forgery (CSRF) protection
+
+15. **Agile and Scrum Methodologies:**
+    - Understanding of agile development processes
+
+16. **Versioning:**
+    - Semantic Versioning (SemVer)
+
+17. **Basic Front-End Knowledge:**
+    - Understanding of how the back-end interacts with the front-end
+    - Basic knowledge of HTML, CSS, and JavaScript
+
+18. **Soft Skills:**
+    - Effective communication
+    - Team collaboration
+    - Problem-solving
+    - Attention to detail
+
+19. **Documentation:**
+    - API documentation (e.g., Swagger, OpenAPI)
+
+20. **Industry Best Practices:**
+    - Clean Code principles
+    - Design patterns
+    - Code review processes
